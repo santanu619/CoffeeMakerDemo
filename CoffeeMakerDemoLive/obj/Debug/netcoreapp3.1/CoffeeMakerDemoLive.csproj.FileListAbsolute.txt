@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\bin\Debug\netcoreapp3.1\CoffeeMakerDemoLive.exe
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\bin\Debug\netcoreapp3.1\CoffeeMakerDemoLive.deps.json
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\bin\Debug\netcoreapp3.1\CoffeeMakerDemoLive.runtimeconfig.json
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\bin\Debug\netcoreapp3.1\CoffeeMakerDemoLive.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\bin\Debug\netcoreapp3.1\CoffeeMakerDemoLive.dll
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\bin\Debug\netcoreapp3.1\CoffeeMakerDemoLive.pdb
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\obj\Debug\netcoreapp3.1\CoffeeMakerDemoLive.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\obj\Debug\netcoreapp3.1\CoffeeMakerDemoLive.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\obj\Debug\netcoreapp3.1\CoffeeMakerDemoLive.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\obj\Debug\netcoreapp3.1\CoffeeMakerDemoLive.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\obj\Debug\netcoreapp3.1\CoffeeMakerDemoLive.dll
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\obj\Debug\netcoreapp3.1\CoffeeMakerDemoLive.pdb
+C:\Users\SANTANU\source\repos\CoffeeMakerDemoLive\CoffeeMakerDemoLive\obj\Debug\netcoreapp3.1\CoffeeMakerDemoLive.genruntimeconfig.cache
